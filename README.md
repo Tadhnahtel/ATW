@@ -3,7 +3,6 @@
 
   #### -  Video trình bày báo cáo
   #### -  Bản mềm nội dung báo cáo
-  #### -  Source code của website thực nghiệm
 ## Các thành viên thực hiện
   #### -  Nguyễn Tuấn Anh. SBD: 06
   #### -  Lê Thành Đạt. SBD: 09 
