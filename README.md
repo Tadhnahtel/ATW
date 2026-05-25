@@ -1,7 +1,7 @@
 # Báo cáo môn An toàn WEB
 ## Đây là repository dùng để nộp bài báo cáo môn An toàn WEB của nhóm 3 lớp B10D54. Nội dung bài nộp bao gồm:
 
-  #### -  Video trình bày báo cáo
+  #### -  Video trình bày báo cáo: https://drive.google.com/file/d/1U32HFPmEHRyW0AoWzmm9QfcCwaLPS3az/view?usp=sharing
   #### -  Bản mềm nội dung báo cáo
 ## Các thành viên thực hiện
   #### -  Nguyễn Tuấn Anh. SBD: 06
